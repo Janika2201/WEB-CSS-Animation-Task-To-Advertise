@@ -27,12 +27,14 @@ header {
 
 .logo-box {
     position: absolute;
-    top: 2%;
+    top: 6%;
     left: 3%;
+    background-image: red;
 }
 
 .logo {
-    height: 8.7rem;
+    height: 7.5rem;
+    
 }
 
 .text-box {
